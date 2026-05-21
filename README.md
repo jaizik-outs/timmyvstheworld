@@ -1,6 +1,7 @@
 # Timmy vs. the World
 
-A first playable Vite + TypeScript + Phaser 3 prototype with one Pac-Man-style maze, dollar-bill pellets, four partner ghosts, power pellets, score/lives UI, and editable Celeste-style dialogue.
+Timmy has big dreams of changing the world, one financed burrito at a time, but does he have what it takes to see it through? 
+A first playable Vite + TypeScript + Phaser 3 prototype with one Pac-Man-style maze. 
 
 ## Run
 
